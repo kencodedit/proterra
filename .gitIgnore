@@ -1,0 +1,7 @@
+portal/node_modules
+backend-server/node_modules
+portal/dist/
+backend-server/dist/
+portal/.env
+backend-server/.env
+portal/.next/
